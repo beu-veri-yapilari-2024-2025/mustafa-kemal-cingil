@@ -13,11 +13,11 @@
   <p>🎯 Her hafta yaptığım ödevler aşağıdaki klasörlerde düzenli olarak bulunmaktadır.</p>
 </div>
 
-<br>n="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Veri+Yap%C4%B1lar%C4%B1+Dersi+%C3%96devleri+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<h2 align="center">� Veri Yapıları Dersi Ödevleri</h2>
+<h2 align="center"> Veri Yapıları Dersi Ödevleri</h2>
 
 <div align="center">
 Bu repo, Veri Yapıları dersi için oluşturulmuştur. Her hafta yaptığım ödevler aşağıdaki klasörlerde bulunmaktadır.
@@ -112,36 +112,5 @@ Bu repo, Veri Yapıları dersi için oluşturulmuştur. Her hafta yaptığım ö
 
 <div align="center">
 
-## 🎯 Ders Hedefleri
-
-<table align="center">
-  <tr>
-    <td align="center">🔍</td>
-    <td><strong>Temel veri yapılarını öğrenmek</strong></td>
-  </tr>
-  <tr>
-    <td align="center">⚡</td>
-    <td><strong>Algoritma analizi yapmak</strong></td>
-  </tr>
-  <tr>
-    <td align="center">🧠</td>
-    <td><strong>Problem çözme becerilerini geliştirmek</strong></td>
-  </tr>
-  <tr>
-    <td align="center">🚀</td>
-    <td><strong>Performans optimizasyonu</strong></td>
-  </tr>
-</table>
-
-</div>
-
 ---
-
-<div align="center">
-  
-### ✨ İyi Çalışmalar! ✨
-  
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-
-</div>
 
