@@ -42,8 +42,8 @@ Bu repo, Veri Yapıları dersi için oluşturulmuştur. Her hafta yaptığım ö
     <tr>
       <td align="center"><strong>1. Hafta</strong></td>
       <td align="center"><a href="./Hafta-1">📁 Hafta-1</a></td>
-      <td align="center">1. hafta ödevleri</td>
-      <td align="center">⏳</td>
+      <td align="center">Temel algoritmalar (toplam, arama, matris çarpımı)</td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center"><strong>2. Hafta</strong></td>
