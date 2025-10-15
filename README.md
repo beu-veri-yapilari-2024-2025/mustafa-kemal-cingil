@@ -48,7 +48,7 @@ Bu repo, Veri Yapıları dersi için oluşturulmuştur. Her hafta yaptığım ö
     <tr>
       <td align="center"><strong>2. Hafta</strong></td>
       <td align="center"><a href="./Hafta-2">📁 Hafta-2</a></td>
-      <td align="center">2. hafta ödevleri</td>
+      <td align="center">Bağlı Liste (Linked List) Uygulaması</td>
       <td align="center">✅</td>
     </tr>
     <tr>
