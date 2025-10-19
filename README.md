@@ -54,8 +54,8 @@ Bu repo, Veri Yapıları dersi için oluşturulmuştur. Her hafta yaptığım ö
     <tr>
       <td align="center"><strong>3. Hafta</strong></td>
       <td align="center"><a href="./Hafta-3">📁 Hafta-3</a></td>
-      <td align="center">3. hafta ödevleri</td>
-      <td align="center">⏳</td>
+      <td align="center">Linked List - Öğrenci kayıt sistemi (C#)</td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center"><strong>4. Hafta</strong></td>
