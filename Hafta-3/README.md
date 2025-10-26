@@ -199,4 +199,4 @@ Ad: Mehmet, Soyad: Öztürk, Numara: 107
 | Sondan silme | O(n) |
 | İstenen değeri silme | O(n) |
 
-**Not:** Doubly Linked List kullanılsaydı bazı işlemler daha hızlı olurdu.
+**Not:** Doubly Linked List kullanılsaydı bence bazı işlemler daha hızlı olurdu.

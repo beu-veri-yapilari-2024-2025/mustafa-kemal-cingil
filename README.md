@@ -60,20 +60,20 @@ Bu repo, Veri Yapıları dersi için oluşturulmuştur. Her hafta yaptığım ö
     <tr>
       <td align="center"><strong>4. Hafta</strong></td>
       <td align="center"><a href="./Hafta-4">📁 Hafta-4</a></td>
-      <td align="center">4. hafta ödevleri</td>
-      <td align="center">⏳</td>
+      <td align="center">İki Yönlü Bağlı Liste (Doubly Linked List)</td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center"><strong>5. Hafta</strong></td>
       <td align="center"><a href="./Hafta-5">📁 Hafta-5</a></td>
-      <td align="center">5. hafta ödevleri</td>
-      <td align="center">⏳</td>
+      <td align="center">İnfix, Prefix, Postfix Dönüşümleri</td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center"><strong>6. Hafta</strong></td>
       <td align="center"><a href="./Hafta-6">📁 Hafta-6</a></td>
-      <td align="center">6. hafta ödevleri</td>
-      <td align="center">⏳</td>
+      <td align="center">Hanoi Kuleleri (Towers of Hanoi) - Recursion</td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center"><strong>7. Hafta</strong></td>
