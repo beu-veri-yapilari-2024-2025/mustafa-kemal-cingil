@@ -78,8 +78,8 @@ Bu repo, Veri Yapıları dersi için oluşturulmuştur. Her hafta yaptığım ö
     <tr>
       <td align="center"><strong>7. Hafta</strong></td>
       <td align="center"><a href="./Hafta-7">📁 Hafta-7</a></td>
-      <td align="center">7. hafta ödevleri</td>
-      <td align="center">⏳</td>
+      <td align="center">İkili ağaç ödevi</td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center"><strong>8. Hafta</strong></td>
